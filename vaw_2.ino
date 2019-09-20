@@ -118,9 +118,9 @@ void draw4(){
 //    u8g.setFont(u8g_font_profont29r);
   u8g.setPrintPos(10,20); 
 // u8g.print("  ");
-  u8g.print(vin); 
   if (vin < 100) u8g.print(" ");  
-  if (vin < 10) u8g.print(" ");                  
+  if (vin < 10) u8g.print(" ");  
+  u8g.print(vin);               
   u8g.println("V"); 
   u8g.setPrintPos(10,40);
 //  u8g.print("  ");
