@@ -1,3 +1,4 @@
+/* 
  *  http://arduinotehniq.blogspot.com
  *  ver.1 - adapt sketch for my schematic and made 10 measurements instead one
  *  ver.2 -  made 100 measurements instead 10
